@@ -1,0 +1,25 @@
+{
+  "name": "meu-futuro-financeiro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "lucide-react": "^0.253.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "recharts": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.2.2",
+    "vite": "^5.4.20",
+    "@vitejs/plugin-react": "^4.3.0"
+  }
+}
